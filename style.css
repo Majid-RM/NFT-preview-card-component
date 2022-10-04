@@ -9,17 +9,17 @@ body {
 }
 .main-container {
   background-color: hsl(216, 50%, 16%);
-  width: 300px;
+  width: 18.75rem;
   display: flex;
   flex-direction: column;
-  border-radius: 15px;
+  border-radius: 0.9375rem;
 }
 .sec-img {
-  padding: 20px 20px 0 20px;
+  padding: 1.25rem 1.25rem 0 1.25rem;
 }
 .man {
-  width: 260px;
-  height: 260px;
+  width: 16.25rem;
+  height: 16.25rem;
   position: relative;
 }
 .man::before {
@@ -34,7 +34,7 @@ body {
   transition: 0.3s;
 }
 img {
-  border-radius: 10px;
+  border-radius: 0.625rem;
 }
 .view {
   position: absolute;
@@ -52,11 +52,11 @@ img {
   opacity: 1;
 }
 .main-container .sec-info {
-  padding: 0 20px 20px 20px;
+  padding: 0 1.25rem 1.25rem 1.25rem;
 }
 .main-container .sec-info h1 {
   color: hsl(0, 0%, 100%);
-  font-size: 18px;
+  font-size: 1.125rem;
   transition: 0.3s;
 }
 .main-container .sec-info h1:hover {
@@ -70,7 +70,7 @@ img {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin: 20px 0;
+  margin: 1.25rem 0;
 }
 .main-container .sec-info .info .left-info {
   display: flex;
@@ -86,7 +86,7 @@ img {
   align-items: center;
   gap: 5px;
   color: hsl(215, 51%, 70%);
-  font-size: 12px;
+  font-size: 0.75rem;
 }
 .h_line {
   width: 100%;
@@ -97,11 +97,11 @@ img {
   display: flex;
   align-items: center;
   gap: 15px;
-  margin-top: 5px;
+  margin-top: 0.315rem;
 }
 .creation p {
   color: hsl(215, 51%, 70%);
-  font-size: 13px;
+  font-size: 0.8125rem;
 }
 .creation p span {
   color: hsl(0, 0%, 100%);
