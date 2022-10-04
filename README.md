@@ -18,7 +18,7 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 ### Links
 
-- Live Site URL: [Live Site at Vercel]()
+- Live Site URL: [Live Site at Vercel](https://majid-rm.github.io/NFT-preview-card-component/)
 
 ## My process
 
