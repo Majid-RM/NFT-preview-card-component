@@ -99,10 +99,6 @@ img {
   gap: 15px;
   margin-top: 5px;
 }
-.creation img {
-  width: 30px;
-  height: 30px;
-}
 .creation p {
   color: hsl(215, 51%, 70%);
   font-size: 13px;
